@@ -6,9 +6,12 @@ This project is designed to capture and recognize faces using OpenCV and Python.
 
 Before using the project, make sure you have the following dependencies installed:
 
+- Python 3.x
 - OpenCV (cv2)
 - NumPy
-- Python 3.x
+- scikit-learn
+
+`use requirements.txt` 
 
 ## Project Structure
 
